@@ -1,0 +1,11 @@
+Total gastos em todos os anos
+total gasto em cada ano
+gastos mensais por ano
+quantidade de serviços solicitados em cada ano
+quantidade de serviços solicitados em todos os anos
+gastos de cada partido por ano
+gastos de cada partido em todos os anos
+gastos de cada serviço por ano
+gastos de cada serviço em todos os anos
+
+por uf,região, relacionar com qtd habitantes
