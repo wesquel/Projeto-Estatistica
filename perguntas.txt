@@ -1,11 +1,11 @@
 Total gastos em todos os anos
 total gasto em cada ano
 gastos mensais por ano
-quantidade de serviÁos solicitados em cada ano
-quantidade de serviÁos solicitados em todos os anos
+quantidade de servi√ßos solicitados em cada ano
+quantidade de servi√ßos solicitados em todos os anos
 gastos de cada partido por ano
 gastos de cada partido em todos os anos
-gastos de cada serviÁo por ano
-gastos de cada serviÁo em todos os anos
+gastos de cada servi√ßo por ano
+gastos de cada servi√ßo em todos os anos
 
-por uf,regi„o, relacionar com qtd habitantes
+por uf,regi√£o, relacionar com qtd habitantes.
